@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me 👋
 
-<!--
-**mirasilver/mirasilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Michelle (Mira Silver)** 👋  
 
-Here are some ideas to get you started:
+I’m a **Physics grad** with a love for mixing **STEM** and **creativity**. I’ve got strong **problem-solving skills**, a drive to **teach myself**, and a background in **digital art**. While I’m still learning about **AI** and **automation**, I’m diving into those areas with the goal of using them to enhance my creative work. Right now, I’m deep into **Python**, **cybersecurity**, and **AI models**, exploring how they can help automate tasks and improve my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills & Interests
+- **Python Development**: Focusing on automation and AI-driven solutions.
+- **Cybersecurity**: Exploring secure systems and data protection.
+- **Digital Art**: Creating vibrant designs and art.
+- **AI & Tech**: Building AI models and exploring their applications in various fields.
+- **Open Source Projects**: Contributing to projects that combine creativity with technology.
+
+## What I'm Working On
+- **Python Projects**: Automating tasks and learning advanced Python techniques.
+- **AI Workflows**: Experimenting with AI models to streamline creativity.
